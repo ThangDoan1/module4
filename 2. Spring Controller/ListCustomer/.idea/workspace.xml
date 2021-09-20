@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba39e58c-14bb-4424-bad1-2dd19c1b7203" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/templates/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/templates/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/templates/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/templates/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/templates/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14.Security/Login-authorization/src/main/java/thang/demo/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14.Security/Login-authorization/src/main/java/thang/demo/config/CustomSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14.Security/Login-authorization/src/main/java/thang/demo/controller/SecurityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14.Security/Login-authorization/src/main/resources/templates/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14.Security/security-spring/src/main/java/thang/demo/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14.Security/security-spring/src/main/java/thang/demo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14.Security/security-spring/src/main/resources/templates/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14.Security/security-spring/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14.Security/security-spring/src/main/resources/templates/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8. Validation/form-register-validate/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/java/thang/demo/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/java/thang/demo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/java/thang/demo/model/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/java/thang/demo/model/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/java/thang/demo/model/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/java/thang/demo/model/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/resources/msg/validation_msg.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/resources/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/src/main/java/thang/demo/controller/TransactionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/src/main/java/thang/demo/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/src/main/java/thang/demo/model/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/src/main/java/thang/demo/repository/TransactionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/src/main/java/thang/demo/service/TransactionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/src/main/java/thang/demo/service/TransactionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/src/main/resources/templates/transaction/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/src/main/resources/templates/transaction/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/src/main/resources/templates/transaction/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/src/main/resources/templates/transaction/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/java/thang/demo/AppConfig/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/java/thang/demo/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/java/thang/demo/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/java/thang/demo/model/CustomerType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/java/thang/demo/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/java/thang/demo/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/java/thang/demo/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/resources/templates/customer/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/resources/templates/customer/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/resources/templates/customer/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/resources/templates/customer/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/resources/templates/customer/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Tổng quan Spring MVC/ListCustomer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1. Tổng quan Spring MVC/ListCustomer/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Tổng quan Spring MVC/ListCustomer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1. Tổng quan Spring MVC/ListCustomer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Tổng quan Spring MVC/spring-greeting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1. Tổng quan Spring MVC/spring-greeting/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/java/thang/demo/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/java/thang/demo/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/java/thang/demo/controller/SmartphoneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/java/thang/demo/controller/SmartphoneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/java/thang/demo/model/entity/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/java/thang/demo/model/entity/Smartphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/static/all-phones.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/templates/phones/all-phones.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/static/edit-phone.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/templates/phones/edit-phone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/templates/phones/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/static/new-phone.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/templates/phones/new-phone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13. I18N/blog-i18n/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../13. I18N/blog-i18n/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/controller/BlogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/repository/BloggedRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/repository/BloggedRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/repository/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/repository/impl/BloggedRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/service/BloggedService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/service/BloggedService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/service/impl/BloggedServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/service/impl/BloggedServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/resources/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/resources/templates/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/java/thang/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/java/thang/demo/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/java/thang/demo/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/java/thang/demo/model/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/java/thang/demo/model/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/java/thang/demo/model/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/java/thang/demo/model/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/resources/msg/validation_msg.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/resources/templates/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/test/java/thang/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/validate-infor-user/src/main/java/thang/demo/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8. Validation/validate-infor-user/src/main/java/thang/demo/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8. Validation/validate-infor-user/src/main/java/thang/demo/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8. Validation/validate-infor-user/src/main/java/thang/demo/model/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1vMOOE4LLzxLlW6ZpAJn4JVSIgu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-email-validation" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\module 4\2. Spring Controller\ListCustomer\src\main" />
+      <recent name="D:\module 4\2. Spring Controller\ListCustomer\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.375" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : doanmanhthang : ListCustomer-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ListCustomer_4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57178" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : doanmanhthang : ListCustomer-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba39e58c-14bb-4424-bad1-2dd19c1b7203" name="Default Changelist" comment="" />
+      <created>1626368456761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626368456761</updated>
+      <workItem from="1626368460364" duration="230000" />
+      <workItem from="1626422102026" duration="3202000" />
+      <workItem from="1627224392663" duration="43000" />
+      <workItem from="1631713718591" duration="317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626368565391">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1626368565391" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1631714036710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1631714036710" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1626368571554">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1626368571554" />
+  </component>
+</project>
