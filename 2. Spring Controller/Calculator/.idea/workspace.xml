@@ -20,148 +20,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="565c943e-25f7-4f30-8def-c6600bd439b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../1. Tổng quan Spring MVC/ListCustomer/.idea/ListCustomer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/templates/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/templates/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/templates/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/templates/error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/templates/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/templates/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/templates/view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14.Security/Login-authorization/src/main/java/thang/demo/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14.Security/Login-authorization/src/main/java/thang/demo/config/CustomSuccessHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14.Security/Login-authorization/src/main/java/thang/demo/controller/SecurityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14.Security/Login-authorization/src/main/resources/templates/welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14.Security/security-spring/src/main/java/thang/demo/config/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14.Security/security-spring/src/main/java/thang/demo/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14.Security/security-spring/src/main/resources/templates/admin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14.Security/security-spring/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../14.Security/security-spring/src/main/resources/templates/user.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/CalculatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sandwich/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sandwich/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sandwich/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sandwich/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sandwich/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sandwich/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sandwich/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sandwich/src/main/java/controller/SandwichController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sandwich/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sandwich/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sandwich/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sandwich/src/main/webapp/WEB-INF/views/sandwich.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sandwich/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-email-validation/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-timezone/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-timezone/.idea/spring-timezone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-timezone/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../4.Views &amp; Thymeleaf/customer-manager/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../4.Views &amp; Thymeleaf/customer-manager/.idea/customer-manager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8. Validation/form-register-validate/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/java/thang/demo/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/java/thang/demo/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/java/thang/demo/model/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/java/thang/demo/model/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/java/thang/demo/model/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/java/thang/demo/model/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/resources/msg/validation_msg.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../8. Validation/validate-form/src/main/resources/templates/result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../final/src/main/java/thang/demo/controller/TransactionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../final/src/main/java/thang/demo/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../final/src/main/java/thang/demo/model/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../final/src/main/java/thang/demo/repository/TransactionRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../final/src/main/java/thang/demo/service/TransactionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../final/src/main/java/thang/demo/service/TransactionServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../final/src/main/resources/templates/transaction/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../final/src/main/resources/templates/transaction/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../final/src/main/resources/templates/transaction/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../final/src/main/resources/templates/transaction/view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../furama4/.idea/furama4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/java/thang/demo/AppConfig/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/java/thang/demo/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/java/thang/demo/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/java/thang/demo/model/CustomerType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/java/thang/demo/repository/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/java/thang/demo/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/java/thang/demo/service/CustomerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/resources/templates/customer/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/resources/templates/customer/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/resources/templates/customer/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/resources/templates/customer/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../furama4/furama/src/main/resources/templates/customer/view.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Tổng quan Spring MVC/ListCustomer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1. Tổng quan Spring MVC/ListCustomer/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Tổng quan Spring MVC/ListCustomer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1. Tổng quan Spring MVC/ListCustomer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1. Tổng quan Spring MVC/spring-greeting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1. Tổng quan Spring MVC/spring-greeting/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-blog/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/java/thang/demo/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/java/thang/demo/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/java/thang/demo/controller/SmartphoneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/java/thang/demo/controller/SmartphoneController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/java/thang/demo/model/entity/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/java/thang/demo/model/entity/Smartphone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/static/all-phones.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/templates/phones/all-phones.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/static/edit-phone.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/templates/phones/edit-phone.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/templates/phones/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/static/new-phone.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../12. jQuery &amp; AJAX/ajax-smartphone/src/main/resources/templates/phones/new-phone.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../13. I18N/blog-i18n/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../13. I18N/blog-i18n/src/main/resources/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListCustomer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListCustomer/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListCustomer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListCustomer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-email-validation/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-email-validation/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-email-validation/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-email-validation/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-email-validation/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-email-validation/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-email-validation/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-email-validation/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-email-validation/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-email-validation/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-email-validation/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-email-validation/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-email-validation/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-email-validation/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-email-validation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-email-validation/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-email-validation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-email-validation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-email-validation/build/classes/java/main/controllers/EmailController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-email-validation/build/classes/java/main/controllers/EmailController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-email-validation/build/libs/spring-email-validation-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-email-validation/build/libs/spring-email-validation-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-email-validation/src/main/java/controllers/EmailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-email-validation/src/main/java/controllers/EmailController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-timezone/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-timezone/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-timezone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-timezone/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../4.Views &amp; Thymeleaf/customer-manager/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Views &amp; Thymeleaf/customer-manager/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5. Thao tác với CSDL và ORM/ListCustomer/src/main/java/model/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../5. Thao tác với CSDL và ORM/ListCustomer/src/main/java/model/entity/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/controller/BlogController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/repository/BloggedRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/repository/BloggedRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/repository/Repository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/repository/impl/BloggedRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/service/BloggedService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/service/BloggedService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/service/impl/BloggedServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/java/thang/demo/service/impl/BloggedServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/resources/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../7. Spring Data Repository/Blog/src/main/resources/templates/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7. Spring Data Repository/Customer-Province/src/main/java/thang/demo/service/impl/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7. Spring Data Repository/Customer-Province/src/main/java/thang/demo/service/impl/CustomerServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../7. Spring Data Repository/Customer-Province/src/main/java/thang/demo/service/impl/ProvinceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7. Spring Data Repository/Customer-Province/src/main/java/thang/demo/service/impl/ProvinceServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/java/thang/demo/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/java/thang/demo/config/AppConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/java/thang/demo/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/java/thang/demo/model/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/java/thang/demo/model/repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/java/thang/demo/model/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/java/thang/demo/model/service/impl/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/resources/msg/validation_msg.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/resources/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/main/resources/templates/result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/form-register-validate/src/test/java/thang/demo/DemoApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/validate-infor-user/src/main/java/thang/demo/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8. Validation/validate-infor-user/src/main/java/thang/demo/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8. Validation/validate-infor-user/src/main/java/thang/demo/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8. Validation/validate-infor-user/src/main/java/thang/demo/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/Calculator-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/Calculator-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/CalculatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/CalculatorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandwich/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Sandwich/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandwich/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Sandwich/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandwich/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Sandwich/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandwich/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Sandwich/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandwich/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Sandwich/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandwich/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Sandwich/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandwich/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Sandwich/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandwich/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Sandwich/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandwich/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sandwich/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandwich/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sandwich/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandwich/build/libs/Sandwich-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../Sandwich/build/libs/Sandwich-1.0-SNAPSHOT.war" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +85,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../module 4/5. Thao tác với CSDL và ORM/ListCustomer" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -308,6 +189,8 @@
       <workItem from="1631878286320" duration="10196000" />
       <workItem from="1631953401980" duration="6215000" />
       <workItem from="1631967588250" duration="474000" />
+      <workItem from="1632136452108" duration="107000" />
+      <workItem from="1632136723235" duration="33000" />
     </task>
     <servers />
   </component>
@@ -335,58 +218,58 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="2" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1366.728@0.0.1366.728" timestamp="1631878553312" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1631965020082">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1632136754172">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1631965020082" />
-    <state width="905" height="180" key="GridCell.Tab.0.bottom" timestamp="1631965021350">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1632136754172" />
+    <state width="905" height="180" key="GridCell.Tab.0.bottom" timestamp="1632136559223">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1631965021350" />
-    <state width="905" height="180" key="GridCell.Tab.0.center" timestamp="1631965021350">
+    <state width="905" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1632136559223" />
+    <state width="905" height="180" key="GridCell.Tab.0.center" timestamp="1632136559223">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1631965021350" />
-    <state width="905" height="180" key="GridCell.Tab.0.left" timestamp="1631965021350">
+    <state width="905" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1632136559223" />
+    <state width="905" height="180" key="GridCell.Tab.0.left" timestamp="1632136559222">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1631965021350" />
-    <state width="905" height="180" key="GridCell.Tab.0.right" timestamp="1631965021350">
+    <state width="905" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1632136559222" />
+    <state width="905" height="180" key="GridCell.Tab.0.right" timestamp="1632136559223">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1631965021350" />
-    <state width="905" height="180" key="GridCell.Tab.1.bottom" timestamp="1631965021351">
+    <state width="905" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1632136559223" />
+    <state width="905" height="180" key="GridCell.Tab.1.bottom" timestamp="1632136559223">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1631965021351" />
-    <state width="905" height="180" key="GridCell.Tab.1.center" timestamp="1631965021351">
+    <state width="905" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1632136559223" />
+    <state width="905" height="180" key="GridCell.Tab.1.center" timestamp="1632136559223">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="180" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1631965021351" />
-    <state width="905" height="180" key="GridCell.Tab.1.left" timestamp="1631965021350">
+    <state width="905" height="180" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1632136559223" />
+    <state width="905" height="180" key="GridCell.Tab.1.left" timestamp="1632136559223">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="180" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1631965021350" />
-    <state width="905" height="180" key="GridCell.Tab.1.right" timestamp="1631965021351">
+    <state width="905" height="180" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1632136559223" />
+    <state width="905" height="180" key="GridCell.Tab.1.right" timestamp="1632136559223">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="180" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1631965021351" />
-    <state width="905" height="180" key="GridCell.Tab.2.bottom" timestamp="1631965021351">
+    <state width="905" height="180" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1632136559223" />
+    <state width="905" height="180" key="GridCell.Tab.2.bottom" timestamp="1632136559224">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="180" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1631965021351" />
-    <state width="905" height="180" key="GridCell.Tab.2.center" timestamp="1631965021351">
+    <state width="905" height="180" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1632136559224" />
+    <state width="905" height="180" key="GridCell.Tab.2.center" timestamp="1632136559224">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="180" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1631965021351" />
-    <state width="905" height="180" key="GridCell.Tab.2.left" timestamp="1631965021351">
+    <state width="905" height="180" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1632136559224" />
+    <state width="905" height="180" key="GridCell.Tab.2.left" timestamp="1632136559224">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="180" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1631965021351" />
-    <state width="905" height="180" key="GridCell.Tab.2.right" timestamp="1631965021351">
+    <state width="905" height="180" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1632136559224" />
+    <state width="905" height="180" key="GridCell.Tab.2.right" timestamp="1632136559224">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="905" height="180" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1631965021351" />
+    <state width="905" height="180" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1632136559224" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1631878576215">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
