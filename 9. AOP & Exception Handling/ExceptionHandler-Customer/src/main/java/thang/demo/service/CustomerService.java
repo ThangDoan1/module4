@@ -1,5 +1,6 @@
 package thang.demo.service;
 
+import thang.demo.exception.DuplicateEmailException;
 import thang.demo.model.entity.Customer;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
@@ -17,7 +18,7 @@ public interface CustomerService {
 
     Customer findOne(Long id);
 
-    Customer save(Customer customer);
+    Customer save(Customer customer) throws DuplicateEmailException;
 
     List<Customer> save(List<Customer> customers);
 

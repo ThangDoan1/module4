@@ -1,7 +1,5 @@
 package thang.demo.model.entity;
 
-import thang.demo.model.Province;
-
 import javax.persistence.*;
 
 @Entity

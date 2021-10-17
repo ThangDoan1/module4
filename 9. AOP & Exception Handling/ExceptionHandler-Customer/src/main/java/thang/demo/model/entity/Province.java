@@ -1,4 +1,4 @@
-package thang.demo.model;
+package thang.demo.model.entity;
 
 import javax.persistence.*;
 

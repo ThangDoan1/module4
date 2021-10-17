@@ -1,6 +1,6 @@
 package thang.demo.service;
 
-import thang.demo.model.Province;
+import thang.demo.model.entity.Province;
 
 import java.util.List;
 

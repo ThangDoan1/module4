@@ -1,6 +1,10 @@
 package thang.demo.service.impl;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.dao.DataIntegrityViolationException;
+import thang.demo.exception.DuplicateEmailException;
 import thang.demo.model.entity.Customer;
+import thang.demo.repository.CustomerRepository;
 import thang.demo.service.CustomerService;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
@@ -8,6 +12,8 @@ import org.springframework.data.domain.Pageable;
 import java.util.List;
 
 public class CustomerServiceImplWithSpringData implements CustomerService {
+    @Autowired
+    CustomerRepository customerRepository ;
 
     @Override
     public List<Customer> findAll() {
@@ -35,8 +41,12 @@ public class CustomerServiceImplWithSpringData implements CustomerService {
     }
 
     @Override
-    public Customer save(Customer customer) {
-        return null;
+    public Customer save(Customer customer) throws DuplicateEmailException {
+        try {
+            return customerRepository.save(customer);
+        } catch (DataIntegrityViolationException e) {
+            throw new DuplicateEmailException();
+        }
     }
 
     @Override

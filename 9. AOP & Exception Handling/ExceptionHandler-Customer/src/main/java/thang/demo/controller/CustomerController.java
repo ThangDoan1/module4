@@ -1,7 +1,8 @@
 package thang.demo.controller;
 
+import thang.demo.exception.DuplicateEmailException;
 import thang.demo.model.entity.Customer;
-import thang.demo.model.Province;
+import thang.demo.model.entity.Province;
 import thang.demo.service.CustomerService;
 import thang.demo.service.ProvinceService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -45,9 +46,9 @@ public class CustomerController {
     }
 
     @PostMapping
-    public String updateCustomer(Customer customer) {
+    public ModelAndView updateCustomer(Customer customer) throws DuplicateEmailException {
         customerService.save(customer);
-        return "redirect:/customers";
+        return new ModelAndView("redirect:/customers");
     }
 
     private Page<Customer> getPage(Pageable pageInfo) {
@@ -56,5 +57,10 @@ public class CustomerController {
 
     private Page<Customer> search(Optional<String> s, Pageable pageInfo) {
         return customerService.search(s.get(), pageInfo);
+    }
+
+    @ExceptionHandler(DuplicateEmailException.class)
+    public ModelAndView showInputNotAcceptable() {
+        return new ModelAndView("customers/inputs-not-acceptable");
     }
 }

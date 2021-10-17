@@ -1,14 +1,9 @@
 package thang.demo.service.impl;
 
-import thang.demo.model.Province;
-import thang.demo.repository.ProvinceRepository;
+import thang.demo.model.entity.Province;
 import thang.demo.service.ProvinceService;
-import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
-import java.util.stream.StreamSupport;
 
 public class ProvinceServiceImplWithSpringData implements ProvinceService {
 
