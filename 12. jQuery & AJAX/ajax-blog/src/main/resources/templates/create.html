@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+<h1>Create Table</h1>
+<div th:if="${message}">
+    <span th:text="${message}"></span>
+</div>
+<a th:href="@{/}">Blog List</a>
+<div id="result"></div>
+<form th:action="@{/blog-create}" method="post" th:object="${blog}">
+    <table id="blogs">
+        <tr>
+            <td>Title</td>
+            <td><input type="text" th:field="*{title}"></td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td><input type="text" th:field="*{description}"></td>
+        </tr>
+        <tr>
+            <td>Content</td>
+            <td><input type="text" th:field="*{content}"></td>
+        </tr>
+        <tr>
+            <td>Image</td>
+            <td><input type="text" th:field="*{image}"></td>
+       <tr>
+            <td><input type="submit" value="Create"></td>
+        </tr>
+    </table>
+</form>
+<!--<input type="button" id="buttonClick" value="Create New"/>-->
+<!--<script>-->
+<!--    $(document).ready(function () {-->
+<!--            $("#buttonClick").click(function (event) {-->
+<!--                var title =document.getElementById("title").value ;-->
+<!--                var description =document.getElementById("description").value;-->
+<!--                var content =document.getElementById("content").value;-->
+<!--                var image =document.getElementById("image").value;-->
+<!--                // $.ajax({-->
+<!--                //     type: "GET",-->
+<!--                //     url:"/create-blog",-->
+<!--                //     success: function(blogList) {-->
+<!--                //         var json={"title":title ,"description":description,"content":content,"image":image}-->
+
+<!--                        $.ajax({-->
+<!--                            type: "POST",-->
+<!--                            data:JSON.stringify(json),-->
+<!--                            url:"/blog-create",-->
+<!--                            success: function (blogged) {-->
+<!--                                var content ="Blog was created";-->
+<!--                                document.getElementById("result").innerHTML = content;-->
+<!--                            }-->
+<!--                        })-->
+<!--            })-->
+<!--    })-->
+<!--</script>-->
+</body>
+</html>
